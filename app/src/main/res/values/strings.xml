@@ -1,0 +1,60 @@
+<resources>
+    <!--First page-->
+    <string name="app_name">FinalProject</string>
+
+    <!--public-->
+    <string name="about">About this project</string>
+    <string name="instruction">Instructions for this App</string>
+    <string name="aboutAPI">About the API</string>
+    <string name="donate">Donate to Project</string>
+    <string name="donate_title">Please give generou$ly</string>
+    <string name="donate_msg">How much money do you want to donate?</string>
+    <string name="donate_yes">THANK YOU</string>
+    <string name="donate_no">CANCEL</string>
+
+    <!--Geo data activity-->
+    <string name="geo_data">Geo data</string>
+
+    <!--Soccer match activity-->
+    <string name="soccer_match">Soccer match</string>
+    <string name="soccer_MyFavorite">My Favorite</string>
+    <string name="soccer_help">Help</string>
+    <string name="soccer_hint">Input here</string>
+    <string name="soccer_favorite">Add to MyFavorite</string>
+    <string name="soccer_favorite_add">Add to MyFavorite</string>
+    <string name="soccer_favorite_delete">Remove from MyFavorite</string>
+    <string name="soccer_added">The match already exists in MyFavorite</string>
+    <string name="soccer_close">Close</string>
+    <string name="soccer_back">Back</string>
+    <string name="soccer_detail">Soccer Match Detail</string>
+    <string name="soccer_highlight">Watch Highlight</string>
+    <string name="soccer_list_toast">Soccer match list is uploading</string>
+    <string name="soccer_list_snackbar">Soccer match list uploaded successfully</string>
+    <string name="soccer_detail_toast">Image is uploading</string>
+    <string name="soccer_detail_snackbar_add">Added to my favorite list</string>
+    <string name="soccer_detail_snackbar_delete">Removed from my favorite list</string>
+    <string name="soccer_about">This is the Soccer activity, \nwritten by Ye Zhang 040958453</string>
+    <string name="soccer_drawer_open">Soccer open</string>
+    <string name="soccer_drawer_close">Soccer close</string>
+    <string name="soccer_instruction">For Soccer match, you could view the soccer match list, add your favorite to MyFavorite, view the detail information and highlist moments</string>
+    <string name="soccer_fragment">fragment</string>
+
+    <!--Lyrics search activity-->
+    <string name="lyrics_search">Lyrics search</string>
+
+    <!--Deezer song activity-->
+    <string name="deezer_song">Deezer song</string>
+    <string name="deezer_type_here">Type here</string>
+    <string name="deezer_search">Search</string>
+    <string name="deezer_note">Add personal note</string>
+    <string name="deezer_save">Save song</string>
+    <string name="deezer_saved">Song saved!</string>
+    <string name="deezer_toast">Please type something</string>
+    <string name="deezer_song_saved">Song saved successfully</string>
+    <string name="deezer_song_title">Title: </string>
+    <string name="deezer_song_duration">Duration: </string>
+    <string name="deezer_song_album">Album: </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
